@@ -1,0 +1,19 @@
+{
+    "name": "chapmandigital/union_result_pattern",
+    "description": "Demonstrates using PHP8's union types and matcher capabilities to improve return values from method calls",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chapmandigital\\UnionResultPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Chapman",
+            "email": "andy@andychapman.net"
+        }
+    ],
+    "require": {}
+}
